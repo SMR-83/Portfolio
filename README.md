@@ -1,6 +1,5 @@
 # Portfolio
-Published work and personal projects
-
+Visit the website for this repository [here](https://smr-83.github.io/Portfolio)
 
 
 
